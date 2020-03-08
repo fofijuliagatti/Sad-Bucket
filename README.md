@@ -1,0 +1,2 @@
+# Sad-Bucket
+Sad Bucket  Una nube se mueve de un lado a otro de la pantalla, cargando con gotas de lluvia. Debajo un balde triste necesita llenarse.  El juego consiste en soltar gotas de lluvia (mediante la tecla g. porque lo llenas con risas. g g g g g g g) intentando que caigan directo a el balde.  El balde triste se llena con 6 gotas de lluvia. Una vez logrado ese objetivo, sab bucket se vuelve happy bucket. 
